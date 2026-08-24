@@ -1,0 +1,4 @@
+professional 512 by 512 vector app icon, bold high-contrast lettering "AS" combined with shopping bag, price tag, storefront accent, product silhouettes integrated into the design, solid opaque colored rounded-square canvas using #C65D4B, clearly rounded app-icon corners with transparent pixels outside the rounded canvas, perfectly centered composition, all shapes complete and uncut, clean flat vector illustration, sharp and fully legible typography, commercial app icon quality
+
+Negative prompt:
+white background, fully transparent canvas, opaque square corners, sharp square tile, photo realistic, photograph, realistic rendering, 3D render, garbled text, illegible letters, deformed letterforms, letters only on plain background, monogram without graphics, off-center, cropped elements, incomplete shapes, blurry, low quality, pixelated, watermark, sketch, rough edges, drop shadow

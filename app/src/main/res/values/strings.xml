@@ -5,7 +5,7 @@
     <string name="gczct_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="gczct_top_bar_home_title">Home/App Title</string>
+    <string name="gczct_top_bar_home_title">ASMRLittle Steps</string>
     <string name="gczct_top_bar_cart_title">Cart</string>
     <string name="gczct_top_bar_checkout_title">Checkout</string>
     <string name="gczct_top_bar_orders_title">Orders</string>
@@ -57,16 +57,23 @@
 
     <!-- checkout dialog -->
     <string name="gczct_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="gczct_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
+    <string name="gczct_checkout_success_message">Your reservation is confirmed. Your order number appears in Purchase History, and your items will be waiting in store for 24 hours.</string>
     <string name="gczct_checkout_dialog_confirm">Done</string>
 
     <!-- settings screen -->
     <string name="gczct_settings_screen_company_label">Company</string>
     <string name="gczct_settings_screen_version_label">Version</string>
     <string name="gczct_settings_screen_customer_support_label">Customer Support</string>
-    <string name="gczct_company_name">Company Name</string>
-    <string name="gczct_app_version">1.0.0</string>
-    <string name="gczct_customer_support_link">https://website.org/</string>
+    <string name="gczct_company_name">ASMR TRADERS LIMITED</string>
+    <string name="gczct_app_version">1.0</string>
+    <string name="gczct_customer_support_link">http://asmrtraders.surf/</string>
+
+    <string name="gczct_category_feeding">Feeding</string>
+    <string name="gczct_category_nappies">Nappies</string>
+    <string name="gczct_category_clothing">Clothing</string>
+    <string name="gczct_category_travel">Travel</string>
+    <string name="gczct_category_care">Baby Care</string>
+    <string name="gczct_category_maternity">Maternity</string>
 
     <!-- clear cart dialog -->
     <string name="gczct_clear_cart_dialog_title">Clear cart?</string>

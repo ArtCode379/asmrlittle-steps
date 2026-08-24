@@ -1,6 +1,6 @@
 {
-  "phase": "scaffold_cloned",
-  "updated_at": "2026-08-24T04:40:35.122208+00:00",
+  "phase": "github_push_started",
+  "updated_at": "2026-08-24T04:55:29.894948+00:00",
   "slug": "asmrlittle-steps",
   "type": "shop",
   "package": "asmrtraders.babycare.asmrlittlesteps",
@@ -12,6 +12,15 @@
   "domain": "http://asmrtraders.surf/",
   "company": "ASMR TRADERS LIMITED",
   "repo_url": "https://github.com/ArtCode379/asmrlittle-steps",
-  "quality_status": "not_run",
-  "build_status": "not_run"
+  "quality_status": "passed",
+  "build_status": "passed",
+  "icon_primary": "#C65D4B",
+  "icon_status": "imagegen",
+  "icon_error": "generate-icon.sh exited 1",
+  "quality_attempt": 2,
+  "quality_errors": 0,
+  "quality_result_file": "/tmp/asmrlittle-steps/quality-result.txt",
+  "build_attempt": 2,
+  "build_exit_code": 0,
+  "build_result_file": "/tmp/asmrlittle-steps/build-result.txt"
 }
